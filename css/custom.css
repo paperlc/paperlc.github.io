@@ -1,0 +1,9 @@
+/* 首页封面高度 */
+.nexmoc-card.nexmoe-album li .nexmoe-post-cover {
+  padding-top: 56.25%; /* 16:9比例 (或设置固定高度: height: 350px!important) */
+}
+
+/* 文章页封面高度 */
+.nexmoe-primary .nexmoe-post-cover {
+  height: 400px !important;
+}
